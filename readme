@@ -1,0 +1,26 @@
+# Customer Churn Analysis & Prediction Using R
+
+## Project Overview
+This project analyzes customer churn data using R. It performs data cleaning, exploratory data analysis (EDA), and visualization, and builds a logistic regression model to predict churn. The insights help organizations reduce customer attrition and improve retention strategies.
+
+## Skills Demonstrated
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization using `ggplot2`  
+- Logistic Regression Modeling  
+- Business Insight Generation  
+
+## Dataset
+- `churn_data.csv` (sample data included)  
+- Can be replaced with real-world telecom datasets for better analysis
+
+### Sample Data Structure
+| customer_id | age | monthly_charges | tenure | contract        | churn |
+|-------------|-----|----------------|--------|----------------|-------|
+| 1           | 25  | 45             | 6      | Month-to-month | Yes   |
+| 2           | 45  | 80             | 24     | One year       | No    |
+
+## How to Run
+1. Install R and required libraries:
+```r
+install.packages(c("dplyr", "ggplot2"))
