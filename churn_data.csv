@@ -1,0 +1,11 @@
+customer_id,age,monthly_charges,tenure,contract,churn
+1,25,45,6,Month-to-month,Yes
+2,45,80,24,One year,No
+3,32,60,12,Month-to-month,Yes
+4,50,90,36,Two year,No
+5,23,40,3,Month-to-month,Yes
+6,41,70,18,One year,No
+7,36,65,15,Month-to-month,Yes
+8,55,85,48,Two year,No
+9,29,55,8,Month-to-month,Yes
+10,48,75,30,One year,No
